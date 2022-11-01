@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nou1984
-- 👀 I’m interested in big data analytics
+- 👀 I’m interested in big data analytics and hoping to become data scientist someday
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on whatever projects that help me learn fast
 - 📫 How to reach me nancy.farouk@hotmail.com
